@@ -5,4 +5,5 @@
 - I am currently pursuing `Information Technology`.
 
 💻 Tech Stack <br>
-`C` `C++` `python` `HTML` `CSS` `Javascript` `NumPy` `Pandas` 
+`C` `C++` `Python` `HTML` `CSS` `Javascript` `NumPy` `Pandas` 
+`NodeJS` `ExpressJS` `ReactJS` `MongoDB` `GIT` `Github`
