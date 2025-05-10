@@ -1,5 +1,6 @@
 # Hi ! Swarup here 👋...
-<img src="https://private-user-images.githubusercontent.com/137029921/391353029-a4e0e85c-67b7-4b95-beb5-f367a598d88f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDY4NTM4NzIsIm5iZiI6MTc0Njg1MzU3MiwicGF0aCI6Ii8xMzcwMjk5MjEvMzkxMzUzMDI5LWE0ZTBlODVjLTY3YjctNGI5NS1iZWI1LWYzNjdhNTk4ZDg4Zi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUxMFQwNTA2MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NjRmMmIwNTVkNWNlYmI4NmYwN2RiNDI5MTgwZDI4NmY5N2U4ZTY0ODU3MzJlNTFjMzczNTA1MjU5MjhlMzEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8fv7xJ97-atyUCwsdRaVOIOe-t4oSVpLA4CWKmWIYmE" alt="coding gif" style="height:400px;">
+
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
 
 # 💫 About Me:
 🧑🏻‍🎓 Sophomore at IIIT Allahabad<br>💻 Pursuing Information Technology<br>🌏 Interested in Open Source<br>🤝 Always open to network & help <br>
