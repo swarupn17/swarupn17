@@ -2,6 +2,8 @@
 
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
 
+  [![Holopin Profile](https://holopin.me/sunnyajit)](https://www.holopin.io/@sunnyajit#badges)
+
 # 💫 About Me:
 🧑🏻‍🎓 Sophomore at IIIT Allahabad<br>💻 Pursuing Information Technology<br>🌏 Interested in Open Source<br>🤝 Always open to network & help <br>
 
