@@ -5,7 +5,7 @@
  [![Holopin Profile](https://holopin.me/swarupn17)](https://www.holopin.io/@swarupn17#badges)
 
 # 💫 About Me:
-🧑🏻‍🎓 Sophomore at IIIT Allahabad<br>💻 Pursuing Information Technology<br>🌏 Interested in Open Source<br>🤝 Always open to network & help <br>
+🧑🏻‍🎓 Pre-Final year student at IIIT Allahabad<br>💻 Pursuing Information Technology<br>🌏 Interested in Open Source<br>🤝 Always open to network & help <br>
 
 
 ## 🌐 Socials:
